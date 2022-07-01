@@ -72,7 +72,7 @@ export default {
         x: e.x,
         y: e.y,
         radius: 30,
-        fillStyle: "#6495ED",
+        fillStyle: "#F08080",
         strokeStyle: "#000",
         selected: false,
       };
