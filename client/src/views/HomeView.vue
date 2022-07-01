@@ -71,7 +71,7 @@ export default {
       let node = {
         x: e.x,
         y: e.y,
-        radius: 30,
+        radius: 40,
         fillStyle: "#F08080",
         strokeStyle: "#000",
         selected: false,
